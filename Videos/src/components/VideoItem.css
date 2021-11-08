@@ -1,0 +1,17 @@
+.video-item, .description {
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+  box-shadow: 6px 6px 6px #e7ec9f;
+  margin: 5px 5px;
+}
+
+.video-item:hover, .description:hover{
+  background-color:#e7ec9f;
+  box-shadow: 6px 6px 6px #000;
+
+}
+
+.video-item.item img {
+  max-width: 180px;
+}
