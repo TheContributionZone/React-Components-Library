@@ -6,15 +6,18 @@ const VideoDetail = ({ video }) => {
   }
 
   const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
-  const date = new Date(video.snippet.publishedAt);
-  let itemDate = (
+  let date = new Date(video.snippet.publishedAt);
+  console.log(date);
+  console.log(video);
+
+    let itemDate = (
     (date.getMonth() + 1) + 
     '-' + 
     date.getDate() + 
     '-' + 
     date.getFullYear()
   );
-  document.getElementById("demo").innerHTML = itemDate;
+  
 
   return (
     <div>
@@ -24,6 +27,8 @@ const VideoDetail = ({ video }) => {
       <div className="ui segment">
         <h4 className="ui header">{video.snippet.title}</h4>
         <p>{video.snippet.description}</p>
+        {/* <p>{Date(video.snippet.publishedAt)}</p> */}
+        <p>Published on: {itemDate}</p>
       </div>
     </div>
   );
