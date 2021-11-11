@@ -6,6 +6,15 @@ const VideoDetail = ({ video }) => {
   }
 
   const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
+  const date = new Date(video.snippet.publishedAt);
+  let itemDate = (
+    (date.getMonth() + 1) + 
+    '-' + 
+    date.getDate() + 
+    '-' + 
+    date.getFullYear()
+  );
+  document.getElementById("demo").innerHTML = itemDate;
 
   return (
     <div>

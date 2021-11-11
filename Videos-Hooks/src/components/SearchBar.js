@@ -11,6 +11,7 @@ const SearchBar = ({ onFormSubmit }) => {
     event.preventDefault();
 
     onFormSubmit(term);
+    
   };
 
   return (
