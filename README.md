@@ -1,8 +1,17 @@
 # React Component Library
 
+
+##Table of Contents
+* [Description](#description)
+* [TechLog](#techlog)
+* [Contributors](#contributors)
+* [Contact](#contact)
+
+
 ## Description
 This repository will be a compilation of different templates and boilerplate code for React, from small reusable components to full-scale React apps.
 
+## TechLog
 Here is a list of each directory in the root directory of this repo, listing the tech used for each one.
 - [Accordion](https://github.com/mathcodes/React-Components-Library/tree/main/Accordion)
 - [Blog](https://github.com/mathcodes/React-Components-Library/tree/main/Blog)
@@ -24,6 +33,9 @@ Here is a list of each directory in the root directory of this repo, listing the
 - [Videos](https://github.com/mathcodes/React-Components-Library/tree/main/Videos)
 - [Videos-Hooks](https://github.com/mathcodes/React-Components-Library/tree/main/Videos-Hooks)
 
+## Contributors
+Make a pull request to become part of the team!
+
 ## Contact
 <img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
 
@@ -38,3 +50,6 @@ GitHub: [mathcodes](https://github.com/mathcodes)
 [<code><img width="36" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></code>](https://www.instagram.com/fullstack11235)       
 [<code><img width="36" src="https://img.icons8.com/color/48/000000/soundcloud.png"/></code>](https://soundcloud.com/jonchristie#/)       
 [<code><img width="36" src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></code>](https://open.spotify.com/artist/07S7aLfxH70VAX64g1WuFw?si=tlOj1OMBRLm-y4sY8Lox3Q)`
+
+
+
