@@ -1,4 +1,10 @@
 # React Component Library
+
+<a href="https://github.com/mathcodes"><img src="https://img.shields.io/github/followers/mathcodes?style=social" target="_blank" /></a>
+    <a href="https://twitter.com/jonpchristie">
+        <img alt="Twitter: jonpchristie" src="https://img.shields.io/twitter/follow/jonpchristie.svg?style=social" target="_blank" />
+    </a>
+    
 This is an open-source collaborative effort open to the public to help build (yes, another... but this ensures all the syntax and architecture will by up to date and beautifully written and practically placed. Please do not hesitate to make suggestions or step up to join me on this growign effort by what I hope to be a massive crew of both experienced and learning developers.
 
 ## Table of Contents
