@@ -1,7 +1,8 @@
 # React Component Library
+This is an open-source collaborative effort open to the public to help build (yes, another... but this ensures all the syntax and architecture will by up to date and beautifully written and practically placed. Please do not hesitate to make suggestions or step up to join me on this growign effort by what I hope to be a massive crew of both experienced and learning developers.
 
+## Table of Contents
 
-##Table of Contents
 * [Description](#description)
 * [TechLog](#techlog)
 * [Contributors](#contributors)
@@ -12,7 +13,8 @@
 This repository will be a compilation of different templates and boilerplate code for React, from small reusable components to full-scale React apps.
 
 ## TechLog
-Here is a list of each directory in the root directory of this repo, listing the tech used for each one.
+Here is a list of each directory in the root directory of this repo, listing the tech used for each one. Every contribution should be followed up by adding any libraries, frameworks, languages or related technologies they used into this centralized list of tech used and covered in this repository.
+
 - [Accordion](https://github.com/mathcodes/React-Components-Library/tree/main/Accordion)
 - [Blog](https://github.com/mathcodes/React-Components-Library/tree/main/Blog)
 - [Dropdown](https://github.com/mathcodes/React-Components-Library/tree/main/Dropdown)
